@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30576d02.css",
+    "main.js": "/static/js/main.fbcb2760.js",
+    "static/media/ContentContainer.jpg": "/static/media/ContentContainer.faf469ea2d8b64dd121b.jpg",
+    "static/media/abstract-paper-background-concept.jpg": "/static/media/abstract-paper-background-concept.d03e35ca979508205662.jpg",
+    "index.html": "/index.html",
+    "main.30576d02.css.map": "/static/css/main.30576d02.css.map",
+    "main.fbcb2760.js.map": "/static/js/main.fbcb2760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30576d02.css",
+    "static/js/main.fbcb2760.js"
+  ]
+}
